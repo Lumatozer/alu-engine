@@ -2,7 +2,7 @@
 
 Alu Engine is a Python based meshless 3d ray tracer made without any external libraries.\
 The Engine supports 3d spheres, materials, ambience lighting, high resolution reflections, depth, specular reflections,\
- diffusion etc.
+ diffusion and many more things too in the future.
 
 ## Installation
 
