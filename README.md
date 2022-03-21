@@ -19,7 +19,7 @@ cd alu-engine
 ## Requirements
 The project does not need any outside libraries to process but to make the rendering procedure faster we can use pypy3 to execute our engine files.
 
-To install pypy3
+Commands To Install PyPy3(Linux)
 ```bash
 sudo apt-get -y install pypy3
 ```
@@ -88,7 +88,7 @@ pypy3 main.py {"scene_name"}
 ```
 ## Issues
 ```
-1.  My engine does not support 3d meshes.
+1.  The Engine does not support 3d meshes.
 2.  Images are outputted as PPM files instead of a more commonly used extension like JPEG or PNG.
 3.  The engine processes everything one a single CPU core.
 4.  The engine runs on a CPU instead of a GPU.
